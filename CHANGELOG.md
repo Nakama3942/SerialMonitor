@@ -38,6 +38,7 @@
 
 ---
 -->
-## v1.0.0 (DATE)
+## v1.0.0 (27.05.2023)
 
 #### Release
+A simple dialog window has been implemented in which you can select a COM connection and listen on it.
