@@ -1,7 +1,7 @@
 <div align="center">
 
 [![template](https://img.shields.io/badge/Repository-template-darkred?style=for-the-badge)](https://github.com/Nakama3942/template_rep)
-[![GitHub license](https://img.shields.io/github/license/Nakama3942/WiretappingScanner?color=gold&style=for-the-badge)](https://github.com/Nakama3942/SerialMonitor/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Nakama3942/SerialMonitor?color=gold&style=for-the-badge)](https://github.com/Nakama3942/SerialMonitor/blob/main/LICENSE)
 [![CHANGELOG](https://img.shields.io/badge/here-CHANGELOG-yellow?style=for-the-badge)](https://github.com/Nakama3942/SerialMonitor/blob/main/CHANGELOG.md)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Nakama3942/SerialMonitor?label=latest%20release&logo=github&style=for-the-badge)
